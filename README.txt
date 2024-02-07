@@ -5,7 +5,7 @@ This repository contains Python assignments 1 to 8 completed by Akash Mahanta. T
 
 ## Contact Information
 - GitHub: [Akash Mahanta GitHub](https://github.com/itzakashbro)
-- Instagram: [@ass.maa69](https://www.instagram.com/ass.maan69/)
+- Instagram: [@ass.maan69](https://www.instagram.com/ass.maan69/)
 - LinkedIn: [Akash Mahanta LinkedIn](#)
 - Twitter: [@itzakashbro](#)
 - Facebook: [@itzakashbro](#)
@@ -22,10 +22,10 @@ This repository contains Python assignments 1 to 8 completed by Akash Mahanta. T
 
 ## Social Media
 Feel free to connect with Akash Mahanta on social media platforms:
-- Instagram: [@itzakashbro](https://www.instagram.com/itzakashbro/)
+- Instagram: [@ass.maan69](https://www.instagram.com/ass.maan69/)
 - LinkedIn: [Akash Mahanta LinkedIn](#)
-- Twitter: [@YourTwitterHandle](#)
-- Facebook: [Your Facebook Profile](#)
+- Twitter: [@itzakashbro](#)
+- Facebook: [@itzakashbro](#)
 
 ## Copyright
 All assignments in this repository are the intellectual property of Akash Mahanta. Unauthorized use, reproduction, or distribution of these assignments is strictly prohibited.
