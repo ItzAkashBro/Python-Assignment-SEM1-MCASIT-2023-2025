@@ -30,4 +30,4 @@ Feel free to connect with Akash Mahanta on social media platforms:
 ## Copyright
 All assignments in this repository are the intellectual property of Akash Mahanta. Unauthorized use, reproduction, or distribution of these assignments is strictly prohibited.
 
-© [Year] Akash Mahanta. All Rights Reserved.
+© [2023-2024] Akash Mahanta. All Rights Reserved.
