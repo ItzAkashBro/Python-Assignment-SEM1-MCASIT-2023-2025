@@ -11,14 +11,14 @@ This repository contains Python assignments 1 to 8 completed by Akash Mahanta. T
 - Facebook: [@itzakashbro](#)
 
 ## Assignments List
-1. Assignment 1 - [Description or Link]
-2. Assignment 2 - [Description or Link]
-3. Assignment 3 - [Description or Link]
-4. Assignment 4 - [Description or Link]
-5. Assignment 5 - [Description or Link]
-6. Assignment 6 - [Description or Link]
-7. Assignment 7 - [Description or Link]
-8. Assignment 8 - [Description or Link]
+1. Assignment 1 - [https://github.com/ItzAkashBro/Python-Assignment-SEM1-MCASIT-2023-2025/tree/main/Assignment_1]
+2. Assignment 2 - [https://github.com/ItzAkashBro/Python-Assignment-SEM1-MCASIT-2023-2025/tree/main/Assignment_2]
+3. Assignment 3 - [https://github.com/ItzAkashBro/Python-Assignment-SEM1-MCASIT-2023-2025/tree/main/Assignment_3]
+4. Assignment 4 - [https://github.com/ItzAkashBro/Python-Assignment-SEM1-MCASIT-2023-2025/tree/main/Assignment_4]
+5. Assignment 5 - [https://github.com/ItzAkashBro/Python-Assignment-SEM1-MCASIT-2023-2025/tree/main/Assignment_5]
+6. Assignment 6 - [https://github.com/ItzAkashBro/Python-Assignment-SEM1-MCASIT-2023-2025/tree/main/Assignment_6]
+7. Assignment 7 - [https://github.com/ItzAkashBro/Python-Assignment-SEM1-MCASIT-2023-2025/tree/main/Assignment_7]
+8. Assignment 8 - [https://github.com/ItzAkashBro/Python-Assignment-SEM1-MCASIT-2023-2025/tree/main/Assignment_8]
 
 ## Social Media
 Feel free to connect with Akash Mahanta on social media platforms:
